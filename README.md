@@ -9,3 +9,7 @@ password : qwerty
 Signup with new account 
 
 API LINK : https://usergrootandinesh.free.beeceptor.com/userstu
+
+IMPORTANT NOTE :
+
+  We can only make 50 request.perday or 50 per endpoint. so if users not displayed,there might be 429 status code error
