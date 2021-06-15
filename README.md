@@ -1,3 +1,6 @@
+Web app created using MOCK API for the users and displayed in the screen 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
