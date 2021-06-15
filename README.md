@@ -2,6 +2,11 @@ Web app created using Reactjs and MOCK API for the users and displayed in the sc
 
 Project live link : https://grootan-77a28.web.app
 
+For login use : 
+username : grootindia@gmail.com
+password : qwerty
+(or)
+Signup with new account 
 
 # Getting Started with Create React App
 
