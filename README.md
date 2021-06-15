@@ -1,4 +1,6 @@
-Web app created using MOCK API for the users and displayed in the screen 
+Web app created using Reactjs and MOCK API for the users and displayed in the screen and its authenticated with users account with help of firebase
+
+Project live link : https://grootan-77a28.web.app
 
 
 # Getting Started with Create React App
