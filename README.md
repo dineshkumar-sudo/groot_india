@@ -1,4 +1,4 @@
-Web app created using Reactjs and MOCK API for the users and displayed in the screen and its authenticated with users account with help of firebase
+Web app created using Reactjs and MOCK API for the users and displayed in the screen and its authenticated with users account with help of firebase(BEST IN DESKTOP MODE)
 
 Project live link : https://groot-ae807.web.app
 
