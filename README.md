@@ -8,3 +8,4 @@ password : qwerty
 (or)
 Signup with new account 
 
+API LINK : https://usergrootandinesh.free.beeceptor.com/userstu
